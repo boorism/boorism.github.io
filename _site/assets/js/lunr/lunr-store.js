@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Dragonfly Guide Illustrations",
+        "excerpt":"Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn’t a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening &amp; War section...","categories": [],
+        "tags": [],
+        "url": "/portfolio/dragonfly-illustrations/",
+        "teaser": "/assets/images/dragon_breasts.JPG"
+      },{
         "title": "Foo Bar Identity",
         "excerpt":"                                                                                                                              This is a sample gallery to go along with this case study.      ","categories": [],
         "tags": [],

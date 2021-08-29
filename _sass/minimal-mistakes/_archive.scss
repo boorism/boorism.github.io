@@ -224,12 +224,25 @@
   }
 
   .archive__item-teaser {
+    
+    /*Adjust so that they are always same size?*/
+
     @include breakpoint($small) {
+      //object-fit: contain;
+      //object-position: center;
+      
       max-height: 200px;
+      //height: 200px;
+      //width: 350;
     }
 
     @include breakpoint($medium) {
+      //object-fit: contain;
+      //object-position: center;
+      
       max-height: 120px;
+      //height: 200px;
+      //width: 350;
     }
   }
 }
