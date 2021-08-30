@@ -1,3 +1,5 @@
+
+
 # main links
 main:
   - title: "Quick-Start Guide"
@@ -10,3 +12,14 @@ main:
     url: /portfolio/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-dragonfly:
+  - title: "The Team"
+    children: 
+      - title: "Me and the old man"
+        url: /assets/images/researchers.JPG
+    #text: "Me and the old man"
+  - title: "Task"
+    children:
+      - title: "Putting together a field guide for the dragonflies of New Zealand"
+        url: https://aucklanduniversitypress.co.nz/dragonflies-and-damselflies-of-new-zealand/
