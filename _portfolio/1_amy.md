@@ -5,12 +5,8 @@ header:
   image: /assets/images/Amy/amy_sis_banner.jpg
   teaser: /assets/images/Amy/amy_sis_front.jpg
 sidebar:
-  - title: "Trial"
-    image: /assets/images/high_school_days
-    image_alt: "logo"
-  - title: "another trial"
-    text: "more text"
-    nav: sidebar-dragonfly
+    - title: "Albums"
+      nav: sidebar-art-albums
 gallery:
   - url: /assets/images/Amy/amy_parents.jpg
     image_path: /assets/images/Amy/amy_parents_teaser.jpg

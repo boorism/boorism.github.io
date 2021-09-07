@@ -5,12 +5,8 @@ header:
   image: /assets/images/gronx/gronx.png
   teaser: /assets/images/gronx/gronx_front.png
 sidebar:
-  - title: "Trial"
-    image: /assets/images/high_school_days
-    image_alt: "logo"
-  - title: "another trial"
-    text: "more text"
-    nav: sidebar-dragonfly
+    - title: "Albums"
+      nav: sidebar-art-albums
 gallery:
   - url: /assets/images/gronx/gronx.png
     image_path: /assets/images/gronx/gronx.png

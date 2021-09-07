@@ -1,16 +1,12 @@
 ---
 title: "Highschool Days"
 excerpt: "Early works done during my highschool days, when the emerging interest of drawing people first started"
+sidebar:
+    - title: "Albums"
+      nav: sidebar-art-albums
 header:
   image: /assets/images/high_school_days/blue_smoke_header.jpg
   teaser: /assets/images/high_school_days/blue_smoke_front.jpg
-sidebar:
-  - title: "Trial"
-    image: /assets/images/high_school_days
-    image_alt: "logo"
-  - title: "another trial"
-    text: "more text"
-    nav: sidebar-dragonfly
 gallery:
   - url: /assets/images/high_school_days/blue_smoke.jpg
     image_path: /assets/images/high_school_days/blue_smoke_teaser_2.jpg

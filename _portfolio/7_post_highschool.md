@@ -1,16 +1,12 @@
 ---
-title: "Post Highschool Commissions"
+title: "Post Highschool Days"
 excerpt: "The period of work between finishing highschool and starting my Univesity adventures"
 header:
   image: /assets/images/post_high_school_days/Charlie.jpg
   teaser: /assets/images/post_high_school_days/Charlie_front.jpg
 sidebar:
-  - title: "Trial"
-    image: /assets/images/high_school_days
-    image_alt: "logo"
-  - title: "another trial"
-    text: "more text"
-    nav: sidebar-dragonfly
+    - title: "Albums"
+      nav: sidebar-art-albums
 gallery:
   - url: /assets/images/post_high_school_days/Charlie.jpg
     image_path: /assets/images/post_high_school_days/Charlie_teaser.jpg

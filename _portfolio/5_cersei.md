@@ -5,12 +5,8 @@ header:
   image: /assets/images/cersei/GoT_front_header.jpg
   teaser: /assets/images/cersei/GoT_front.jpg
 sidebar:
-  - title: "Trial"
-    image: /assets/images/high_school_days
-    image_alt: "logo"
-  - title: "another trial"
-    text: "more text"
-    nav: sidebar-dragonfly
+    - title: "Albums"
+      nav: sidebar-art-albums
 gallery:
   - url: /assets/images/cersei/GoT.jpg
     image_path: /assets/images/cersei/GoT_front.jpg

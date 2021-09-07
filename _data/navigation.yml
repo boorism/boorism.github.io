@@ -2,16 +2,18 @@
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
+  - title: "Resume"
+    url: /resume/
   - title: "Art"
     url: /portfolio/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+
 
 sidebar-dragonfly:
   - title: "The Team"
@@ -23,3 +25,24 @@ sidebar-dragonfly:
     children:
       - title: "Putting together a field guide for the dragonflies of New Zealand"
         url: https://aucklanduniversitypress.co.nz/dragonflies-and-damselflies-of-new-zealand/
+
+
+sidebar-art-albums:
+  - title: "The Barrys"
+    url: /portfolio/1_amy/
+  - title: "The Van Wies"
+    url: /portfolio/2_mareike/
+  - title: "The Gronx"
+    url: /portfolio/3_gronx/
+  - title: "Dragonfly Illustrations"
+    url: /portfolio/4_dragonfly-illustrations/
+  - title: "Cersei Lannister"
+    url: /portfolio/5_cersei/
+  - title: "A handsome handsome man"
+    url: /portfolio/6_robbie/
+  - title: "Post Highschool Days"
+    url: /portfolio/7_post_highschool/                        
+  - title: "Heisenberg"
+    url: /portfolio/8_heisenberg/
+  - title: "Highschool Days"
+    url: /portfolio/9_high-school-days/

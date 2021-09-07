@@ -297,9 +297,19 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  #_pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      author_profile: true
+      layout: single
 
 #Collections
 collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  values:
+    author_profile: true
+  

@@ -1,16 +1,12 @@
 ---
-title: "Dragonfly Guide Illustrations"
+title: "Dragonfly Illustrations"
 excerpt: "Pencil illustration done in collaboration with my father for the 2020 New Zealand Dragonfly fieldguide."
 header:
   image: /assets/images/dragonfly_field_guide/dragon_breasts.JPG
   teaser: /assets/images/dragonfly_field_guide/dragon_breasts_teaser.JPG
 sidebar:
-  - title: "Trial"
-    image: /assets/images/dragonfly_field_guide/researchers.JPG
-    image_alt: "logo"
-  - title: "another trial"
-    text: "more text"
-    nav: sidebar-dragonfly
+    - title: "Albums"
+      nav: sidebar-art-albums
 gallery:
   - url: /assets/images/dragonfly_field_guide/dragon_breasts.JPG
     image_path: /assets/images/dragonfly_field_guide/dragon_breasts_teaser.JPG
