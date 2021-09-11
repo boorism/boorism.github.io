@@ -14,6 +14,9 @@ theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Boris Marinov"
@@ -103,13 +106,13 @@ analytics:
 author:
   name             : "Boris Marinov"
   avatar           : "/assets/images/author/me2.png"
-  bio              : "A bit about meself"
-  location         : "Skitzville"
-  email            :
+  bio              : "Part-time artist and wannabe skater. <br> Full-time geek"
+  location         : "Christchurch, NZ"
+  email            : boris.marinov96@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "boris.marinov96@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "boris.marinov96@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -186,9 +189,13 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+#Fixes the collapse stuff, change back if causing other issues though
+#Never mind, breaks the insertion of images and gallery shit with liquid
+# markdown: CommonMarkGhPages
 
 # Conversion
 markdown: kramdown
+# markdown: CommonMarkGhPages
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"

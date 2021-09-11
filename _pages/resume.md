@@ -2,98 +2,51 @@
 # title: Resume
 # layout: single
 permalink: /resume/
+toc: true
 ---
 
-Johnny Coder
-============
+Without having to worry about 2-page industry limits I have put together the following not-so concise resume about my past experiences, projects and interests. 
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_M.pdf). 
 
-Education
+# Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2021 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-    Estimation Problem*
+: [**MSc, Human Machine Communication**](https://www.rug.nl/masters/computational-cognitive-science/?lang=en); 
+  (University of Groningen, The Netherlands) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Grade Average X*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+  * Language Modeling Track
+  * Standout courses included Advanced Statistical Modeling, Data Science, Machine Learning, Natural Language Processing and Scientific Visualisation
+  * [Three major projects](#masters-projects)
 
-    *Minor: Awesomeology*
+---------
 
-Experience
-----------
+2015-2019
 
-**Your Most Recent Work Experience:**
+: [**BSc, Artificial Intelligence**](https://www.rug.nl/bachelors/artificial-intelligence/?lang=en); 
+  (University of Groningen, The Netherlands) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Grade Average 7.6*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+  * Standout courses included General Linguistics, Neural Networks, Biopsychology, Calculus, Linear Algebra and Multivariate Calculus and Statistics
+  * [Eye-tracking experiment for Bachelor's Thesis](#bachelors-projects)
 
-* First item
+---------
 
-* Item with [link](http://www.example.com). Links will work both in
-the html and pdf versions.
+2012-2013
 
-**That Other Job You Had**
+: [**National Certificate in Computing**](https://www.ara.ac.nz/products/programme/nz2592-stru-new-zealand-certificate-in-computing-intermediate-user/); 
+  (ARA, Christchurch, New Zealand) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Level 2 and 3*
 
-Also with a short description.
+  * 
 
-Technical Experience
---------------------
+---------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-    indentation levels in the markdown source.
-    * Second item.
+<br>
+<br>
+<br>
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+# Projects 
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-    * English (native speaker)
-    * ???
-    * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+## Master's Projects
