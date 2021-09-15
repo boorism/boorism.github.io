@@ -11,7 +11,7 @@ header:
 excerpt: >
   A top shagger
 feature_row:
-  - image_path: /assets/images/robbie/Robbie_front.png/
+  - image_path: /assets/images/robbie/Robbie_front_small.jpg/
     alt: "customizable"
     title: "Art Portfolio"
     excerpt: "Paint shit I've done"
