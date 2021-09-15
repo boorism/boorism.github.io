@@ -18,19 +18,19 @@ var store = [{
         "teaser": "/assets/images/gronx/gronx_front.png"
       },{
         "title": "Dragonfly Illustrations",
-        "excerpt":"Working with my father is always an interesting but rewarding experience. While the typical theme (dragonflies) is not my main interest, it is always nice to draw something new and be part of a unique project   This time we teamed up for a field guide published by the Auckland University Press. My father approached me to help him out with the pencil illustrations, with the coloured ones being handled by someone with a little more expertise.   I am particularly pleased with the first drawing in the gallery, the one illustrating the abdomen muscles connecting to the wings. In the end the book came out great, and even won one of the 2020 Whitley Awards for Best Illustrated Field Guide!                                                                                                                                                                                                                                                      This is a sample gallery to go along with this case study.         ","categories": [],
+        "excerpt":"    Working with my father is always an interesting but rewarding experience. While the typical theme (dragonflies) is not my main interest, it is always nice to draw something new and be part of a unique project   This time we teamed up for a field guide published by the Auckland University Press. My father approached me to help him out with the pencil illustrations, with the coloured ones being handled by someone with a little more expertise.   I am particularly pleased with the first drawing in the gallery, the one illustrating the abdomen muscles connecting to the wings. In the end the book came out great, and even won one of the 2020 Whitley Awards for Best Illustrated Field Guide!                                                                                                                                                                                                                                                      This is a sample gallery to go along with this case study.         ","categories": [],
         "tags": [],
         "url": "/portfolio/4_dragonfly-illustrations/",
         "teaser": "/assets/images/dragonfly_field_guide/dragon_breasts_teaser.jpg"
       },{
         "title": "Cersei Lannister",
-        "excerpt":"                                                  This is a sample gallery to go along with this case study.       ","categories": [],
+        "excerpt":"                                                     This is a sample gallery to go along with this case study.       ","categories": [],
         "tags": [],
         "url": "/portfolio/5_cersei/",
         "teaser": "/assets/images/cersei/GoT_front.jpg"
       },{
-        "title": "A handsome handsome man",
-        "excerpt":"INSERT TEXT HERE   HERE MIGHT BE WORTH TO NOT DO A GALLERY CAUSE IMAGE ENDS UP BEING TOO BIG, JUST INCLUDE IMAGE IN MD AND CAN SET IT SIZE                                                    This is a sample gallery to go along with this case study.       ","categories": [],
+        "title": "A handsome young man",
+        "excerpt":"    Overwhelmed by the novelty of my first year of uni, I had found it difficult to find the time or motivation to start a new painting. Luckily, I had also met one of my closest-to-date friends and it didn't take long for us to plan his portrait. Oil paints on canvas.   I have so many fond memories and probably too much nostalgia of our times in C39 and couldn't be happier with how the painting turned out. I like to think I was able to capture his unique style (that I gladly copied and improved on..) and the kindness this boy had in him.                                                  If you're ever in the mood for some good music, I'd highly recommend his podcast series about house and disco. Keep it up Bob!    BURU · BURU PODCAST SERIES ","categories": [],
         "tags": [],
         "url": "/portfolio/6_robbie/",
         "teaser": "/assets/images/robbie/Robbie_front.png"

@@ -29,6 +29,7 @@ gallery:
     alt: "pond"
 ---
 
+<br>
 
 <p align = "justify">Working with my father is always an interesting but rewarding experience. While the typical theme (dragonflies) is not my main interest, it is always nice to draw something new and be part of a unique project</p>
 
