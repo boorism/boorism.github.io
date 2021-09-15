@@ -4,7 +4,7 @@ permalink: /
 hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/author/me_home_trial.png
+  overlay_image: /assets/images/author/me_home_reverse.png
   actions:
     - label: "<i class='fas fa-download'></i> About Me"
       url: "/about_me/"
