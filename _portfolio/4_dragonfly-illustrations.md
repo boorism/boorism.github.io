@@ -10,19 +10,19 @@ sidebar:
       nav: sidebar-art-albums
 gallery:
   - url: /assets/images/dragonfly_field_guide/dragon_breasts.JPG
-    image_path: /assets/images/dragonfly_field_guide/dragon_breasts_teaser.JPG
+    image_path: /assets/images/dragonfly_field_guide/dragon_breasts_teaser.jpg
     alt: "abdomen"
   - url: /assets/images/dragonfly_field_guide/dragon_flight.JPG
-    image_path: /assets/images/dragonfly_field_guide/dragon_flight_teaser.JPG
+    image_path: /assets/images/dragonfly_field_guide/dragon_flight_teaser.jpg
     alt: "flight schematic"
   - url: /assets/images/dragonfly_field_guide/dragon_mantiples.JPG
-    image_path: /assets/images/dragonfly_field_guide/dragon_mantiples_teaser.JPG
+    image_path: /assets/images/dragonfly_field_guide/dragon_mantiples_teaser.jpg
     alt: "mantiples"
   - url: /assets/images/dragonfly_field_guide/dragon_pen.JPG
-    image_path: /assets/images/dragonfly_field_guide/dragon_pen_teaser.JPG
+    image_path: /assets/images/dragonfly_field_guide/dragon_pen_teaser.jpg
     alt: "genitles"
   - url: /assets/images/dragonfly_field_guide/pond.JPG
-    image_path: /assets/images/dragonfly_field_guide/pond_teaser.JPG
+    image_path: /assets/images/dragonfly_field_guide/pond_teaser.jpg
     alt: "pond"
 ---
 
