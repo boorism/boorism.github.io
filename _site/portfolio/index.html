@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Portfolio - Boris Marinov</title>
+<!-- begin _includes/seo.html --><title>My Personal Space</title>
 <meta name="description" content="My portfolio and interests">
 
 
@@ -19,9 +19,9 @@
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Boris Marinov">
-<meta property="og:title" content="Portfolio">
-<meta property="og:url" content="http://localhost:4000/portfolio/">
+<meta property="og:site_name" content="My Personal Space">
+<meta property="og:title" content="My Personal Space">
+<meta property="og:url" content="http://0.0.0.0:4000/portfolio/">
 
 
   <meta property="og:description" content="My portfolio and interests">
@@ -41,7 +41,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/portfolio/">
+<link rel="canonical" href="http://0.0.0.0:4000/portfolio/">
 
 
 
@@ -52,7 +52,7 @@
     
       "@type": "Person",
       "name": "Boris Marinov",
-      "url": "http://localhost:4000/"
+      "url": "http://0.0.0.0:4000/"
     
   }
 </script>
@@ -66,8 +66,6 @@
 <!-- end _includes/seo.html -->
 
 
-
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Boris Marinov Feed">
 
 
 <!-- https://t.co/dKP3o1e -->
@@ -113,11 +111,13 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          Boris Marinov
+          My Personal Space
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/">Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about_me/">About Me</a>
             </li><li class="masthead__menu-item">
               <a href="/resume/">Resume</a>
             </li><li class="masthead__menu-item">
@@ -125,6 +125,11 @@
             </li><li class="masthead__menu-item">
               <a href="/portfolio/">Art</a>
             </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -152,7 +157,7 @@
 
   
     <div class="author__avatar">
-      <a href="http://localhost:4000/">
+      <a href="http://0.0.0.0:4000/">
         <img src="/assets/images/author/me2.png" alt="Boris Marinov" itemprop="image" class="u-photo">
       </a>
     </div>
@@ -160,7 +165,7 @@
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Boris Marinov</a>
+      <a class="u-url" rel="me" href="http://0.0.0.0:4000/" itemprop="url">Boris Marinov</a>
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
@@ -182,15 +187,15 @@
       
         
           
-        
-          
-        
-          
-        
-          
             <li><a href="https://github.com/borismarinov96" rel="nofollow noopener noreferrer me"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
+          
+            <li><a href="https://www.linkedin.com/in/boris-marinov96" rel="nofollow noopener noreferrer me"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+          
+            <li><a href="https://www.instagram.com/booris.m" rel="nofollow noopener noreferrer me"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
           
         
       
@@ -267,13 +272,22 @@
 
   <div class="archive">
     
-      <h1 id="page-title" class="page__title">Portfolio</h1>
+      <h1 id="page-title" class="page__title"></h1>
     
-    <hr />
+    <h1 id="portfolio" align="center">
+  Art Portfolio
+</h1>
 
-<p>TRIAL TEXT</p>
+<p align="justify">The visual and fine arts are a big part of my personality and something that has been with me from an early age. It has taught me patience, creativity and attention to detail, things I believe I implicitly bring into my technical work and research.</p>
+
+<p align="justify">Showcasing my paintings and artworks was a big motivating factor for creating this website and I hope you enjoy them as much as I enjoyed making them.</p>
+
+<p align="justify">A big shout-out to the people who inspired and supported these and countless of other unpublished drawings. You guys know who you are.</p>
 
 <hr />
+<p><br />
+<br /></p>
+
 
 
 
@@ -302,7 +316,7 @@
     
 
 
-    <p class="archive__item-excerpt" itemprop="description">Commission works for Queen Barry, a dear and life-long friend from Groningen
+    <p class="archive__item-excerpt" itemprop="description">Commission works for Queen Barry, a dear and life-long friend from Groningen; (2019)
 </p>
   </article>
 </div>
@@ -326,7 +340,7 @@
     
 
 
-    <p class="archive__item-excerpt" itemprop="description">Commission works for M, the least I could do for someone who has given and taught me so much.
+    <p class="archive__item-excerpt" itemprop="description">Commission works for M, my mother away from home in Groningen; (2019)
 </p>
   </article>
 </div>
@@ -350,7 +364,7 @@
     
 
 
-    <p class="archive__item-excerpt" itemprop="description">Dedicated to all my dear friends
+    <p class="archive__item-excerpt" itemprop="description">Dedicated to all my dear friends; (2017-2020)
 </p>
   </article>
 </div>
@@ -505,6 +519,17 @@
     </div>
 
     
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
 
     <div id="footer" class="page__footer">
       <footer>
@@ -520,21 +545,19 @@
     
       
         
-      
+          <li><a href="https://github.com/borismarinov96" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
         
       
         
-      
+          <li><a href="https://www.linkedin.com/in/boris-marinov96" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
         
       
         
-      
+          <li><a href="https://www.instagram.com/booris.m" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
         
       
     
 
-    
-      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
     
   </ul>
 </div>
@@ -549,6 +572,10 @@
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 

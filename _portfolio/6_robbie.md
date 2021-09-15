@@ -2,7 +2,7 @@
 title: "A handsome handsome man"
 excerpt: "A gift for one of my favourite people"
 header:
-  image: /assets/images/robbie/Robbie_header.png
+  # image: /assets/images/robbie/Robbie_header.png
   teaser: /assets/images/robbie/Robbie_front.png
 sidebar:
     - title: "Albums"

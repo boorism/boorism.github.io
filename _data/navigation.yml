@@ -8,6 +8,8 @@ main:
   #   url: /year-archive/
   - title: "Home"
     url: /
+  - title: "About Me"
+    url: /about_me/
   - title: "Resume"
     url: /resume/
   - title: "Posts"
@@ -50,3 +52,8 @@ sidebar-art-albums:
     url: /portfolio/8_heisenberg/
   - title: "Highschool Days"
     url: /portfolio/9_high-school-days/
+
+home-sidebar:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"

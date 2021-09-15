@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Boris Marinov</title>
+<!-- begin _includes/seo.html --><title>My Personal Space</title>
 <meta name="description" content="My portfolio and interests">
 
 
@@ -19,9 +19,9 @@
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Boris Marinov">
-<meta property="og:title" content="Boris Marinov">
-<meta property="og:url" content="http://localhost:4000/">
+<meta property="og:site_name" content="My Personal Space">
+<meta property="og:title" content="My Personal Space">
+<meta property="og:url" content="http://0.0.0.0:4000/">
 
 
   <meta property="og:description" content="My portfolio and interests">
@@ -41,7 +41,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/">
+<link rel="canonical" href="http://0.0.0.0:4000/">
 
 
 
@@ -52,7 +52,7 @@
     
       "@type": "Person",
       "name": "Boris Marinov",
-      "url": "http://localhost:4000/"
+      "url": "http://0.0.0.0:4000/"
     
   }
 </script>
@@ -66,8 +66,6 @@
 <!-- end _includes/seo.html -->
 
 
-
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Boris Marinov Feed">
 
 
 <!-- https://t.co/dKP3o1e -->
@@ -113,11 +111,13 @@
       <nav id="site-nav" class="greedy-nav">
         
         <a class="site-title" href="/">
-          Boris Marinov
+          My Personal Space
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/">Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about_me/">About Me</a>
             </li><li class="masthead__menu-item">
               <a href="/resume/">Resume</a>
             </li><li class="masthead__menu-item">
@@ -125,6 +125,11 @@
             </li><li class="masthead__menu-item">
               <a href="/portfolio/">Art</a>
             </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -150,15 +155,85 @@
     
       <h1 id="page-title" class="page__title"></h1>
     
-    <p>TRIAL TEST HUSAFGUAKSGFKAUSFG SDKAGSDKASGDKASGD GSUDKAGSLAKUDGSAKUD <img style="float: right;" src="/assets/images/author/me2.png" /></p>
+    <html>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<head>
+<style>
+
+.img1 {
+  float: right;
+}
+
+.img2 {
+  width: 100%;
+  height: auto;
+  border-radius: 15px
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+h2 {text-align: center;
+    font-size: 48px;}
+
+
+a {
+    text-decoration: none;
+}
+
+i {
+  margin-right: 10px;
+}
+
+</style>
+</head>
+
+
+<body>
+
+<h2>Greetings!</h2>
+
+<div class="clearfix">
+  <img class="img2" src="/assets/images/author/me_home_trial.png" alt="me_home" />
+</div>
+
+<p align="justify"> I'm Boris, a Bulgarian boy who spent his teenage years in New Zealand and completed his university studies in the Netherlands. I'm currently looking for my next adventure and while unsure of where or what that may be, I do know that I'm very passionate and curious about AI and data science.</p>
+
+<p align="justify"> I've been raised to value the relationships I build with people and the environment, and am heavily influenced by skate culture, classical hip-hop and the fine arts.</p>
+
+<p align="justify"> I built this site with the hopes of showcasing my work, paintings, skills and creative and open personality.</p>
+
+<p align="center">Enjoy and feel free to get in touch!</p>
+
+<div align="center">
+<a href="mailto:boris.marinov96@gmail.com" target="_blank">
+<i class="fas fa-fw fa-envelope" style="font-size:36px"></i>
+</a>
+<a href="https://www.linkedin.com/in/boris-marinov96" target="_blank">
+<i class="fab fa-linkedin" style="font-size:36px"></i>
+</a>
+<a href="https://github.com/borismarinov96" target="_blank">
+<i class="fab fa-github" style="font-size:36px"></i>
+</a>
+<a href="https://www.instagram.com/booris.m/" target="_blank">
+<i class="fab fa-instagram" style="font-size:36px"></i>
+</a>
+</div>
+
+</body>
+</html>
 
 
 
-<h3 class="archive__subtitle">Recent posts</h3>
+<!-- <h3 class="archive__subtitle">Recent posts</h3> -->
 
 
 
-
+<!-- 
 <div class="entries-list">
   
     
@@ -299,7 +374,7 @@
 </div>
 
   
-</div>
+</div> -->
 
 
 
@@ -308,6 +383,17 @@
 </div>
     </div>
 
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
     
 
     <div id="footer" class="page__footer">
@@ -324,21 +410,19 @@
     
       
         
-      
+          <li><a href="https://github.com/borismarinov96" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
         
       
         
-      
+          <li><a href="https://www.linkedin.com/in/boris-marinov96" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
         
       
         
-      
+          <li><a href="https://www.instagram.com/booris.m" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
         
       
     
 
-    
-      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
     
   </ul>
 </div>
@@ -353,6 +437,10 @@
 
 
 
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 

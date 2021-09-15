@@ -5,7 +5,7 @@ sidebar:
     - title: "Albums"
       nav: sidebar-art-albums
 header:
-  image: /assets/images/high_school_days/blue_smoke_header.jpg
+  # image: /assets/images/high_school_days/blue_smoke_header.jpg
   teaser: /assets/images/high_school_days/blue_smoke_front.jpg
 gallery:
   - url: /assets/images/high_school_days/blue_smoke.jpg

@@ -1,8 +1,8 @@
 ---
 title: "The Van Wies"
-excerpt: "Commission works for M, the least I could do for someone who has given and taught me so much."
+excerpt: "Commission works for M, my mother away from home in Groningen; (2019)"
 header:
-  image: /assets/images/mareike/m_and_mother.jpg
+  # image: /assets/images/mareike/m_and_mother.jpg
   teaser: /assets/images/mareike/m_and_mother_front.jpg
 sidebar:
     - title: "Albums"
@@ -16,6 +16,12 @@ gallery:
     alt: "amy_sis"
 ---
 
-INSERT TEXT HERE
+<br>
 
-{% include gallery caption="This is a sample gallery to go along with this case study."%}
+2019 was certainly a restart to my commissons career with a dear friend ordering these as a gift for her parents. Despite missing the Christmas deadline, I think we were both very happy with the result. Oil paints on canvas.
+
+I usually rely on the eyes within a painting to portray a facial expression and feeling. While you can't see them directly in either these, I am really happy that I managed to capture the look of care and love given by both parents.
+
+Thank you M for the countless of delicious meals and funny stories!
+
+{% include gallery%}

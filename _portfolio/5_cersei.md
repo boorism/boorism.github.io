@@ -2,7 +2,7 @@
 title: "Cersei Lannister"
 excerpt: "CAPTION HERE"
 header:
-  image: /assets/images/cersei/GoT_front_header.jpg
+  # image: /assets/images/cersei/GoT_front_header.jpg
   teaser: /assets/images/cersei/GoT_front.jpg
 sidebar:
     - title: "Albums"

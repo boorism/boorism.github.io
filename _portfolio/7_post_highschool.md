@@ -2,7 +2,7 @@
 title: "Post Highschool Days"
 excerpt: "The period of work between finishing highschool and starting my Univesity adventures"
 header:
-  image: /assets/images/post_high_school_days/Charlie.jpg
+  # image: /assets/images/post_high_school_days/Charlie.jpg
   teaser: /assets/images/post_high_school_days/Charlie_front.jpg
 sidebar:
     - title: "Albums"

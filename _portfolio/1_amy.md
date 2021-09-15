@@ -1,9 +1,9 @@
 ---
 title: "The Barrys"
-excerpt: "Commission works for Queen Barry, a dear and life-long friend from Groningen"
+excerpt: "Commission works for Queen Barry, a dear and life-long friend from Groningen; (2019)"
 header:
-  image: /assets/images/Amy/amy_sis_banner.jpg
-  teaser: /assets/images/Amy/amy_sis_front.jpg
+#   image: /assets/images/Amy/amy_sis_banner.jpg
+    teaser: /assets/images/Amy/amy_sis_front.jpg
 sidebar:
     - title: "Albums"
       nav: sidebar-art-albums
@@ -16,6 +16,10 @@ gallery:
     alt: "amy_sis"
 ---
 
-INSERT TEXT HERE
+<br>
 
-{% include gallery caption="This is a sample gallery to go along with this case study."%}
+Miss Barry had always been a big supporter of my artworks and it was a particular pleasure creating these for her and her family. It was also a tremendous help for me at the time so I am forever grateful for her help!
+
+Mediums used were the typical oil paints on canvas, utilizing an easel for the first time for both! The faces of the parents posed a particular challenge at the time which I think I overcame, and am really happy with the look I managed to capture in her sister's eyes.
+
+{% include gallery%}

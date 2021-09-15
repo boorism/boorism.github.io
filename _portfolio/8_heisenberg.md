@@ -5,7 +5,7 @@ sidebar:
     - title: "Albums"
       nav: sidebar-art-albums
 header:
-  image: /assets/images/heisenberg/heisenberg_banner.JPG
+  # image: /assets/images/heisenberg/heisenberg_banner.JPG
   teaser: /assets/images/heisenberg/heisenberg_front.jpg
 gallery:
   - url: /assets/images/heisenberg/heisenberg.jpg

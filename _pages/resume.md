@@ -1,6 +1,6 @@
 ---
 # title: Resume
-# layout: single
+# layout: posts
 permalink: /resume/
 peoples_gallery:
   - url: /assets/images/peoples/emotional_map_2_2020.png
@@ -33,17 +33,43 @@ thesis_gallery:
   - url: /assets/images/thesis/Clustering_Pipeline.png
     image_path: /assets/images/thesis/Clustering_Pipeline.png
     alt: "splash layout example"
+fiji_gallery:
+  - url: /assets/images/fiji/guide_cover.jpg
+    image_path: /assets/images/fiji/guide_cover.jpg
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/fiji/guide_cover.jpg
+    image_path: /assets/images/fiji/guide_cover.jpg
+    alt: "splash layout example"
+  - url: /assets/images/fiji/guide_cover.jpg
+    image_path: /assets/images/fiji/guide_cover.jpg
+    alt: "splash layout example"
+guide_gallery:
+  - url: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+    image_path: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+    image_path: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+    alt: "splash layout example"
+  - url: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+    image_path: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+    alt: "splash layout example"
 toc: true
 ---
 
-Not being constricted by the typical 2-page CV limits, I have put together the following not-so concise resume about my past experiences, projects and interests 
+<h1 align = "center">
+  Resume
+</h1>
 
-My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_M.pdf) 
+Below is a not-so concise resume about my past experiences, projects and technical skills 
+
+My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_M.pdf), while the [About Me](/about_me/) page is focused on more personal interests, traits and hobbies
 
 <br>
 <br>
 
-# Education
+<h1 id = "education" align = "center">
+  Education
+</h1>
 ---------
 
 2019-2021 
@@ -85,19 +111,22 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_
 
   * *NCEA Excellence Level 1, 2 & 3*
   * One of New Zealand's most famous and oldest boys-only highschools
-  * Big involvement in the school culture and [leadership roles]()
+  * Big involvement in the school culture and [leadership roles](#miscellaneous)
 
----------
 
 <br>
 <br>
 
-# Projects 
+<h1 id = "projects" align = "center">
+  Projects
+</h1>
 ---------
 
 A list of the major projects I have been a part of. For more detail, as well as more personal and smaller work, check out the [Posts](/posts-by-year/) page
 
-## Master's Projects
+<h2 id = "masters-projects">
+  Master's Projects
+</h2>
 
 2020 - 2021
 <br>
@@ -111,7 +140,7 @@ Unstructured Free-Form Medical Complaints*](/assets/documents/Master_Thesis_Bori
 
   {% include gallery id="thesis_gallery" caption="Visualisations of both the classification and clustering pipelines used for the project" %}
 
----------
+  ---------
 <br>
 
 : **Master's Internship:** <br/><br/> [*3D visualisations of the flow, spread and interaction of QAnon topics and locations: A Social Network Analysis*](/assets/documents/Report_on_Visualisations_final.pdf)
@@ -122,7 +151,7 @@ Unstructured Free-Form Medical Complaints*](/assets/documents/Master_Thesis_Bori
 
   {% include gallery id="sna_gallery" caption="Some visualisation examples. Nodes represent users, with relations between them being Twitter mentions. Right-most plot illustrates topic clusters and discourse flow in data" %}
 
----------
+  ---------
 <br>
 
 : **Master's Research Project:** <br/><br/> [*Topic and Emotion Development among Dutch COVID-19 Twitter Communities in the early Pandemic*](/assets/documents/peoples_paper.pdf)
@@ -136,7 +165,9 @@ Unstructured Free-Form Medical Complaints*](/assets/documents/Master_Thesis_Bori
   {% include gallery id="peoples_gallery" caption="Diffirent exploratory figures of the Twitter data. Peaks in tweet frequencies coincide with important events, while the general polarity of tweets seems to increase throughout the months (Feb - April 2020)" %}
   
 
-## Bachelor's Projects
+<h2 id = "bachelors-projects">
+  Bachelor's Projects
+</h2>
 
 2018-2019
 <br>
@@ -146,16 +177,19 @@ Unstructured Free-Form Medical Complaints*](/assets/documents/Master_Thesis_Bori
   * Supervised by: [Dr. Jelmer Borst](https://www.rug.nl/staff/j.p.borst/) & [Dr. Jacolien van Rij-Tange](https://www.rug.nl/staff/j.c.van.rij/)
   * Eye-tracking study investigating how a visual scene affects pupil size in resolving different pronoun types.
 
----------
 
 <br>
 <br>
 
-# Experience
+<h1 id = "experience" align = "center">
+  Experience
+</h1>
 ---------
-My experiences in different aspects of life so far. I strongly believe in diving into as many different things as possible, as each new challenge and step out of a comfort zone can be so rewarding and vocational. 
+My experiences in different aspects of life so far. I strongly believe in diving into as many different things as possible, as each new challenge and step out of a comfort zone can be so rewarding and vocational 
 
-## Work
+<h2 id = "work">
+  Work
+</h2>
 
 2020
 <br>
@@ -174,6 +208,8 @@ My experiences in different aspects of life so far. I strongly believe in diving
   * Courses: General Linguistics, Basic Scientific Skills, Introduction to AI, Cognitive Psychology
   * Assisting professors across different subjects with grading of assignments, giving tutorials to students throughout the semesters and general course structure responsibilities. I particularly enjoyed these employments as it not only gave a feeling of fulfillment, but also solidified my own knowledge in the fields and increased my own confidence as a person, public speaker and leader.
 
+  ---------
+
 : **Student Mentor**
 
   * University of Groningen
@@ -186,3 +222,37 @@ My experiences in different aspects of life so far. I strongly believe in diving
 
   * [Canterbury Health Labs](https://www.chl.co.nz)
   * My first job out of highschool. Spend some time working in the labs as an intern and used the money to save up for my university move to the Netherlands. Got to see the inner workings of the healthcare system. Worked across the different departments and performed different laboratory tests with real patient samples! An early motivator to attempt and stay within the medical field. 
+
+
+<h2 id = "miscellaneous">
+  Miscellaneous
+</h2>
+
+2018
+<br>
+: [**New Zealand Dragonfly Field Guide Illustrator**](https://aucklanduniversitypress.co.nz/dragonflies-and-damselflies-of-new-zealand/)
+
+  * In collaboration with the Auckland University Press
+  * Another project I had worked on with my father, this time just focusing on the [pencil illustrations](/portfolio/4_dragonfly-illustrations/) for the field guide. The book was very successful and ended up winning one of the [2020 Whitley Awards for Best Illustrated Field Guide](https://www.rzsnsw.org.au/grants-awards/previous-winners/2020-winners)!
+
+  {% include gallery id="guide_gallery" caption="Visualisations of both the classification and clustering pipelines used for the project" %}
+
+
+---------
+
+2013-2014
+<br>
+
+: **Head of House, School Prefect and Deputy Head of the Humanitarian Committee**
+
+  * Christ's College, New Zealand
+  * Three different leadership roles within my highschool. New Zealand schools, and this one in particular, place a lot of importance on the house systems. Being elected as a head of house placed the responsibility of organising house events, ensuring the wellbeing of students within the house and being a representative in the school community. The school prefect role was similar, albeit on a more general scale, and the involvement in the humanitarian committee was mostly focused on organising events and activities to raise money for a chosen charity. 
+
+  ---------
+
+: [**Fiji Dragonfly Field Guide Illustrator**](https://www.amazon.com/Illustrated-Guide-Dragonflies-Viti-Levu/dp/B06XDK3TZK)
+
+  * In collaboration with The University of the South Pacific Institute of Applied Sciences
+  * This was the first big project I was involved in with my father. He had initiated yet another one of his ideas with work on dragonflies and kindly invited me to paint numerous illustrations for the field guide. My illustrations have come a long way since then, but it paved the way for promising future collaborations!
+
+  {% include gallery id="fiji_gallery" caption="Visualisations of both the classification and clustering pipelines used for the project" %}
