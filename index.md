@@ -12,7 +12,7 @@ excerpt: >
   A top shagger
 feature_row:
   - image_path: /assets/images/robbie/Robbie_front_small.jpg/
-    alt: "customizable"
+    alt: "robbie"
     title: "Art Portfolio"
     excerpt: "Paint shit I've done"
     url: "/portfolio/"
