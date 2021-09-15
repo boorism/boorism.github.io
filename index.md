@@ -25,10 +25,10 @@ feature_row:
     excerpt: "Education, work experience and projects I've collaborated on with fellow researchers"
     url: "/resume/"
     btn_class: "btn--primary"
-    btn_label: "Blog posts"
+    btn_label: "Read more"
   - image_path: /assets/images/sna/full.png
     alt: "100% free"
-    title: "Posts"
+    title: "Blog Posts"
     excerpt: "Blogs about personal projects, things of interest or random banter crossing my mind"
     url: "/posts-by-year/"
     btn_class: "btn--primary"
