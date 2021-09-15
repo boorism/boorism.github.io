@@ -13,6 +13,5 @@ gallery:
     alt: "heisenberg"
 ---
 
-<br>
 
-{% include gallery caption="This is a sample gallery to go along with this case study."%}
+{% include gallery caption = "Oil on canvas; (2017)"%}

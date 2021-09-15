@@ -29,7 +29,7 @@ gallery:
     alt: "pond"
 ---
 
-<br>
+{% include gallery caption = "Pencil on paper; (2018)"%}
 
 <p align = "justify">Working with my father is always an interesting but rewarding experience. While the typical theme (dragonflies) is not my main interest, it is always nice to draw something new and be part of a unique project</p>
 
@@ -38,4 +38,4 @@ gallery:
 <p align = "justify">I am particularly pleased with the first drawing in the gallery, the one illustrating the abdomen muscles connecting to the wings. In the end the book came out great, and even won one of the <a href = "https://www.rzsnsw.org.au/grants-awards/previous-winners/2020-winners">2020 Whitley Awards for Best Illustrated Field Guide</a>!
 
 
-{% include gallery caption="This is a sample gallery to go along with this case study."%}
+

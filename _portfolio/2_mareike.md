@@ -16,7 +16,7 @@ gallery:
     alt: "amy_sis"
 ---
 
-<br>
+{% include gallery caption = "Oil on canvas; (2019)"%}
 
 <p align = "justify">2019 was certainly a restart to my commissons career with a dear friend ordering these as a gift for her parents. Despite missing the Christmas deadline, I think we were both very happy with the result. Oil paints on canvas.</p>
 
@@ -24,4 +24,4 @@ gallery:
 
 <p align = "justify">Thank you M for the countless of delicious meals and funny stories!</p>
 
-{% include gallery%}
+
