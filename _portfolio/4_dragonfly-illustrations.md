@@ -4,7 +4,7 @@ hyperlink: /dragonfly-illustrations/
 excerpt: "Pencil illustration done in collaboration with my father for the 2020 New Zealand Dragonfly fieldguide."
 header:
   # image: /assets/images/dragonfly_field_guide/dragon_breasts.JPG
-  teaser: /assets/images/dragonfly_field_guide/dragon_breasts_teaser.JPG
+  teaser: /assets/images/dragonfly_field_guide/dragon_breasts_teaser.jpg
 sidebar:
     - title: "Albums"
       nav: sidebar-art-albums

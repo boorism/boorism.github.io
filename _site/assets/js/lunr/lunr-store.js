@@ -12,7 +12,7 @@ var store = [{
         "teaser": "/assets/images/mareike/m_and_mother_front.jpg"
       },{
         "title": "The Gronx",
-        "excerpt":"    This poster started off as a concept in the early days of uni. My time in Groningen (aka The Gronx) has been so memorable due to the people I met and was lucky enough to befriend. As most of us were far away from home, we naturally formed a very tight and supporting family. To celebrate this, and to learn a bit about Adobe Illustrator, I started working on this piece in my off time.   As the years dragged on and I met more people that I wanted to add to this                                                  ","categories": [],
+        "excerpt":"    This poster started off as a concept in the early days of uni. My time in Groningen (aka The Gronx) has been so memorable due to the people I met and was lucky enough to befriend. As most of us were far away from home, we naturally formed a very tight and supporting family. To celebrate this, and to learn a bit about Adobe Illustrator, I started working on this piece in my off time.   As the years dragged on and I met more people that I wanted to add to this trial                                                  ","categories": [],
         "tags": [],
         "url": "/portfolio/3_gronx/",
         "teaser": "/assets/images/gronx/gronx_front.png"
@@ -21,7 +21,7 @@ var store = [{
         "excerpt":"INSERT TEXT HERE                                                                                                                                                                                                            This is a sample gallery to go along with this case study.       ","categories": [],
         "tags": [],
         "url": "/portfolio/4_dragonfly-illustrations/",
-        "teaser": "/assets/images/dragonfly_field_guide/dragon_breasts_teaser.JPG"
+        "teaser": "/assets/images/dragonfly_field_guide/dragon_breasts_teaser.jpg"
       },{
         "title": "Cersei Lannister",
         "excerpt":"INSERT TEXT HERE   HERE MIGHT BE WORTH TO NOT DO A GALLERY CAUSE IMAGE ENDS UP BEING TOO BIG, JUST INCLUDE IMAGE IN MD AND CAN SET IT SIZE                                                    This is a sample gallery to go along with this case study.       ","categories": [],
@@ -52,22 +52,4 @@ var store = [{
         "tags": [],
         "url": "/portfolio/9_high-school-days/",
         "teaser": "/assets/images/high_school_days/blue_smoke_front.jpg"
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.   Jekyll requires blog post files to be named according to the following format:   YEAR-MONTH-DAY-title.MARKUP   Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.   Jekyll also offers powerful support for code snippets:   def print_hi(name)   puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT.  Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.   ","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "/jekyll/update/welcome-to-jekyll-copy-2/",
-        "teaser": null
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.   Jekyll requires blog post files to be named according to the following format:   YEAR-MONTH-DAY-title.MARKUP   Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.   Jekyll also offers powerful support for code snippets:   def print_hi(name)   puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT.  Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.   ","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "/jekyll/update/welcome-to-jekyll-copy/",
-        "teaser": null
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.   Jekyll requires blog post files to be named according to the following format:   YEAR-MONTH-DAY-title.MARKUP   Where YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.   Jekyll also offers powerful support for code snippets:   def print_hi(name)   puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT.  Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.   ","categories": ["jekyll","update"],
-        "tags": [],
-        "url": "/jekyll/update/welcome-to-jekyll/",
-        "teaser": null
       },]
