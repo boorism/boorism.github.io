@@ -1,6 +1,6 @@
 ---
 title: "Cersei Lannister"
-excerpt: "CAPTION HERE"
+excerpt: "Fan GOT art; (2017)"
 header:
   # image: /assets/images/cersei/GoT_front_header.jpg
   teaser: /assets/images/cersei/GoT_front.jpg
@@ -13,8 +13,6 @@ gallery:
     alt: "heisenberg"
 ---
 
-INSERT TEXT HERE
 
-HERE MIGHT BE WORTH TO NOT DO A GALLERY CAUSE IMAGE ENDS UP BEING TOO BIG, JUST INCLUDE IMAGE IN MD AND CAN SET IT SIZE
 
 {% include gallery caption="This is a sample gallery to go along with this case study."%}

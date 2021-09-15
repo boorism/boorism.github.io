@@ -18,10 +18,10 @@ gallery:
 
 <br>
 
-2019 was certainly a restart to my commissons career with a dear friend ordering these as a gift for her parents. Despite missing the Christmas deadline, I think we were both very happy with the result. Oil paints on canvas.
+<p align = "justify">2019 was certainly a restart to my commissons career with a dear friend ordering these as a gift for her parents. Despite missing the Christmas deadline, I think we were both very happy with the result. Oil paints on canvas.</p>
 
-I usually rely on the eyes within a painting to portray a facial expression and feeling. While you can't see them directly in either these, I am really happy that I managed to capture the look of care and love given by both parents.
+<p align = "justify">I usually rely on the eyes within a painting to portray a facial expression and feeling. While you can't see them directly in either these, I am really happy that I managed to capture the look of care and love given by both parents.</p>
 
-Thank you M for the countless of delicious meals and funny stories!
+<p align = "justify">Thank you M for the countless of delicious meals and funny stories!</p>
 
 {% include gallery%}

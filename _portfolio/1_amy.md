@@ -18,8 +18,8 @@ gallery:
 
 <br>
 
-Miss Barry had always been a big supporter of my artworks and it was a particular pleasure creating these for her and her family. It was also a tremendous help for me at the time so I am forever grateful for her help!
+<p align = "justify">Miss Barry had always been a big supporter of my artworks and it was a particular pleasure creating these for her and her family. It was also a tremendous help for me at the time so I am forever grateful for her help!</p>
 
-Mediums used were the typical oil paints on canvas, utilizing an easel for the first time for both! The faces of the parents posed a particular challenge at the time which I think I overcame, and am really happy with the look I managed to capture in her sister's eyes.
+<p align = "justify">Mediums used were the typical oil paints on canvas, utilizing an easel for the first time for both! The faces of the parents posed a particular challenge at the time which I think I overcame, and am really happy with the look I managed to capture in her sister's eyes.</p>
 
 {% include gallery%}

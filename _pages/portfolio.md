@@ -6,12 +6,10 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 # sidebar:
-#   - title: "Trial"
-#     image: /assets/images/high_school_days
-#     image_alt: "logo"
-#   - title: "another trial"
-#     text: "more text"
-#     nav: sidebar-dragonfly
+#   - title: "Title"
+#     image: "/assets/images/author/me2.png"
+#     image_alt: "image"
+#     text: "Some text here."
 ---
 
 <h1 id = "portfolio" align = "center">

@@ -57,3 +57,13 @@ home-sidebar:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+
+
+sidebar-portfolio:
+  - title: "Title"
+    image: "/assets/images/author/me2.png"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-sample
