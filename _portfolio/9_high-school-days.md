@@ -17,8 +17,8 @@ gallery:
   - url: /assets/images/high_school_days/cara_pencil.jpg
     image_path: /assets/images/high_school_days/cara_pencil_teaser.jpg
     alt: "cara_pencil"
-  - url: /assets/images/high_school_days/meth_big_l.jpg
-    image_path: /assets/images/high_school_days/meth_big_l.jpg
+  - url: /assets/images/high_school_days/meth_big_l.JPG
+    image_path: /assets/images/high_school_days/meth_big_l.JPG
     alt: "meth_big_l"
   - url: /assets/images/high_school_days/moon_wolf.jpg
     image_path: /assets/images/high_school_days/moon_wolf_teaser.jpg
