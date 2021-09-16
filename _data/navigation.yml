@@ -34,24 +34,26 @@ sidebar-dragonfly:
 
 
 sidebar-art-albums:
+  - title: "The Clarks"
+    url: /portfolio/1_peter/
   - title: "The Barrys"
-    url: /portfolio/1_amy/
+    url: /portfolio/2_amy/
   - title: "The Van Wies"
-    url: /portfolio/2_mareike/
+    url: /portfolio/3_mareike/
   - title: "The Gronx"
-    url: /portfolio/3_gronx/
+    url: /portfolio/4_gronx/
   - title: "Dragonfly Illustrations"
-    url: /portfolio/4_dragonfly-illustrations/
+    url: /portfolio/5_dragonfly-illustrations/
   - title: "Cersei Lannister"
-    url: /portfolio/5_cersei/
+    url: /portfolio/6_cersei/
   - title: "A handsome young man"
-    url: /portfolio/6_robbie/
+    url: /portfolio/7_robbie/
   - title: "Post Highschool Days"
-    url: /portfolio/7_post_highschool/                        
+    url: /portfolio/8_post_highschool/                        
   - title: "Heisenberg"
-    url: /portfolio/8_heisenberg/
+    url: /portfolio/9_heisenberg/
   - title: "Highschool Days"
-    url: /portfolio/9_high-school-days/
+    url: /portfolio/9_xhigh-school-days/
 
 home-sidebar:
   links:
