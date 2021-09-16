@@ -19,4 +19,6 @@ gallery:
 {% include gallery caption="Oil on canvas; (2014)"%}
 
 
-<p align = "justify">This was a pretty influential piece in my "career" as an artist. I had been commissioned at the time by my highschool chemistry teacher to paint him whatever I wanted. Being obsessed with the events of Breaking Bad I decided it was a fitting 
+<p align = "justify">This was a pretty influential piece in my "career" as an artist. I had been commissioned at the time by my highschool chemistry teacher to paint him whatever I wanted. Being obsessed with the events of Breaking Bad I decided it was a fitting subject, and tried to include my limited chemistry knowledge by immitating the first entry of the periodic table. The 'H' here stands for both Hisenberg and Hydrogen, with the numbers in the corners relating to the atomic numbers and weights, something I'm often asked to explain.</p>
+
+<p align = "justify">The success from this painting was a bit more than anticipated. My teacher was of course very happy with it, but I also had the idea of offering prints online. A day or so after posting it, it blew up and I found myself running back and forth to the print shop for weeks. Funds for uni were always welcome, and it motivated me to stick to art as a secondary hussle.</p>
