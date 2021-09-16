@@ -24,7 +24,7 @@ var store = [{
         "teaser": "/assets/images/dragonfly_field_guide/dragon_breasts_teaser.jpg"
       },{
         "title": "Cersei Lannister",
-        "excerpt":"                                                  Oil on canvas; (2017)       ","categories": [],
+        "excerpt":"                                                  Oil on canvas; (2017)       A little piece which was mostly done out of self interest in the midst of the Game of Thrones hype. The original intent was to try and sell some prints (offer still available..) after the success of my Mr. White endevaours, but somehow things didn't kick off as planned.   Nevertheless, I was always really happy with this painting. I really enjoy the \"toxic\" green and the movement which I think is captured in the background. I usually focus primarily on the subject of the painting, leaving the background secondary and often a random color, which definitely isn't the case here.   This work now hangs at a fellow geek's house, hopefully reminding him of the good times and the even better times ahead.  ","categories": [],
         "tags": [],
         "url": "/portfolio/5_cersei/",
         "teaser": "/assets/images/cersei/GoT_front.jpg"
@@ -36,13 +36,13 @@ var store = [{
         "teaser": "/assets/images/robbie/Robbie_front.png"
       },{
         "title": "Post Highschool Days",
-        "excerpt":"INSERT TEXT HERE                                                                                                                                This is a sample gallery to go along with this case study.       ","categories": [],
+        "excerpt":"                                                                                                                                                                                                          Oil on canvas; Pencil on paper; (2015)       There was a bit of a buffer period between the end of my highschool days and the university era. At the time I was working as a laboratory assistant, saving everything I could for my move to the Netherlands. Naturally this meant accepting commissions left and right for family and friends.   These are some of the commissions at the time, while the painting of Charlie (the dog) was a gift for the Franks family, who had accepted me as their second son temporarily due to my parents having to move cities for a bit.   Charlie is one of the few non-human works that I have done and it probably came out as one of the best. The least I could do for the Franks for their huge favour and years of friendship and support   ","categories": [],
         "tags": [],
         "url": "/portfolio/7_post_highschool/",
         "teaser": "/assets/images/post_high_school_days/Charlie_front.jpg"
       },{
         "title": "Heisenberg",
-        "excerpt":"INSERT TEXT HERE                                                                                          This is a sample gallery to go along with this case study.       ","categories": [],
+        "excerpt":"                                                                                        Oil on canvas; (2014)       This was a pretty influential    ","categories": [],
         "tags": [],
         "url": "/portfolio/8_heisenberg/",
         "teaser": "/assets/images/heisenberg/heisenberg_front.jpg"

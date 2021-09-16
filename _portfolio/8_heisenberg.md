@@ -16,6 +16,7 @@ gallery:
     alt: "process"
 ---
 
-INSERT TEXT HERE
+{% include gallery caption="Oil on canvas; (2014)"%}
 
-{% include gallery caption="This is a sample gallery to go along with this case study."%}
+
+<p align = "justify">This was a pretty influential 
