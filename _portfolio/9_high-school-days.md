@@ -37,6 +37,8 @@ gallery:
     alt: "tribe_pencil"
 ---
 
-INSERT TEXT HERE
+{% include gallery caption="Mixed medium. Mostly oil on canvas or pencil; (2012-2014)"%}
 
-{% include gallery caption="This is a sample gallery to go along with this case study."%}
+<p align = "justify">While the tendency towards art has always been with me, the particular art style of realism and focusing on painting people really kicked off in highschool.</p>
+
+<p align = "justify">All these paintings were done for my art class, for which we had to develop different panels of evolving work on some topic. The most successful work is of the girl with the blue smoke, and I believe it still hangs somewhere in the halls at school.</p>
