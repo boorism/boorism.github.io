@@ -1,6 +1,6 @@
 ---
 title: "Highschool Days"
-excerpt: "Early works done during my highschool days, when the emerging interest of drawing people first started"
+excerpt: "Early works done during my highschool days, when the emerging interest of drawing people first started; (2012-2013)"
 sidebar:
     - title: "Albums"
       nav: sidebar-art-albums
