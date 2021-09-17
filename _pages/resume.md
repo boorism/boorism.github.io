@@ -56,6 +56,66 @@ guide_gallery:
 toc: true
 ---
 
+<style>
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+
+th {
+  text-align: center;
+  vertical-align: middle;
+}
+
+hr {
+  border: 2px solid #009879;
+  border-radius: 5px;
+}
+
+hr.small {
+  border: 0.7px solid #009879;
+  border-radius: 5px;
+}
+
+</style>
+
+
+
+
 <h1 align = "center">
   Resume
 </h1>
@@ -70,7 +130,8 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_
 <h1 id = "education" align = "center">
   Education
 </h1>
----------
+
+<hr>
 
 2019-2021 
 
@@ -82,7 +143,7 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_
   * Standout courses included Advanced Statistical Modeling, Data Science, Machine Learning, Natural Language Processing and Scientific Visualisation
   * [Three major projects](#masters-projects)
 
----------
+<hr class = "small">
 
 2015-2019
 
@@ -93,7 +154,7 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_
   * Standout courses included General Linguistics, Neural Networks, Biopsychology, Calculus, Linear Algebra & Multivariate Calculus and Statistics
   * [Eye-tracking experiment for Bachelor's Thesis](#bachelors-projects)
 
----------
+<hr class = "small">
 
 2012-2013
 
@@ -102,7 +163,7 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_
 
   * Focus on using a spectrum of Microsoft Office software, dealing with digital services and some web-programming
 
----------
+<hr class = "small">
 
 2012-2013
 
@@ -116,6 +177,51 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_
 
 <br>
 <br>
+
+<h1 id = "skills" align = "center">
+  Technical Skills
+</h1>
+---------
+
+A summary of computer skills and general AI/data science fields I am most interested in
+
+<table class="styled-table">
+    <thead>
+        <tr>
+            <th>Level</th>
+            <th align = "center">Skill</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Basic</td>
+            <td><tt>Java</tt>, <tt>C</tt>, Adobe Illustrator, Tableau, <tt>HTML/CSS</tt> (growing as I work on this site...)</td>
+        </tr>
+        <tr class="active-row">
+            <td>Intermediate</td>
+            <td><tt>R</tt>, <tt>Matlab</tt>, Latex, <tt>Linux</tt>, Sklearn, Keras, <tt>SQL</tt>, Matplotlib, Adobe InDesign, Adobe Photoshop, Microsoft Office</td>
+        </tr>
+        <tr>
+            <td>Fluent</td>
+            <td><tt>Python, Pandas</tt></td>
+        </tr>
+    </tbody>
+</table>
+
+Particular interest in fields such as: 
+
+  * Data, data and more DATA
+  * **Natural Language Processing**: language models, semantic vector spaces, topic modelling 
+  * **Data Visualisation**: normal graph visualisations, scientific visualisation, 3D-graphs 
+  * Data Wrangling, Manipulation, Mining 
+  * **Machine Learning**: supervised and unsupervised methods
+  * **Statistical modelling**: both linear and non-linear regression
+  * Scientific writing and research
+
+<br>
+<br>
+
+
 
 <h1 id = "projects" align = "center">
   Projects
@@ -140,7 +246,7 @@ Unstructured Free-Form Medical Complaints*](/assets/documents/Master_Thesis_Bori
 
   {% include gallery id="thesis_gallery" caption="Visualisations of both the classification and clustering pipelines used for the project" %}
 
-  ---------
+  <hr class = "small">
 <br>
 
 : **Master's Internship:** <br/><br/> [*3D visualisations of the flow, spread and interaction of QAnon topics and locations: A Social Network Analysis*](/assets/documents/Report_on_Visualisations_final.pdf)
@@ -151,7 +257,7 @@ Unstructured Free-Form Medical Complaints*](/assets/documents/Master_Thesis_Bori
 
   {% include gallery id="sna_gallery" caption="Some visualisation examples. Nodes represent users, with relations between them being Twitter mentions. Right-most plot illustrates topic clusters and discourse flow in data" %}
 
-  ---------
+  <hr class = "small">
 <br>
 
 : **Master's Research Project:** <br/><br/> [*Topic and Emotion Development among Dutch COVID-19 Twitter Communities in the early Pandemic*](/assets/documents/peoples_paper.pdf)
@@ -184,7 +290,7 @@ Unstructured Free-Form Medical Complaints*](/assets/documents/Master_Thesis_Bori
 <h1 id = "experience" align = "center">
   Experience
 </h1>
----------
+<hr>
 My experiences in different aspects of life so far. I strongly believe in diving into as many different things as possible, as each new challenge and step out of a comfort zone can be so rewarding and vocational 
 
 <h2 id = "work">
@@ -198,7 +304,7 @@ My experiences in different aspects of life so far. I strongly believe in diving
   * University of Groningen
   * A "higher-up" student teaching job which had me working much closer with the professor ([Dr. Jennifer Spenader](https://www.rug.nl/staff/j.k.spenader/?lang=en)) of the course. Worked together on creating homeworks, exams and managing the other TAs and students. A particular challenge of this job was having to quickly adjust midway into the course to online teaching due to the sudden pandemic.
 
----------
+<hr class = "small">
 
 2017-2019
 <br>
@@ -208,14 +314,15 @@ My experiences in different aspects of life so far. I strongly believe in diving
   * Courses: General Linguistics, Basic Scientific Skills, Introduction to AI, Cognitive Psychology
   * Assisting professors across different subjects with grading of assignments, giving tutorials to students throughout the semesters and general course structure responsibilities. I particularly enjoyed these employments as it not only gave a feeling of fulfillment, but also solidified my own knowledge in the fields and increased my own confidence as a person, public speaker and leader.
 
-  ---------
+  <hr class = "small">
 
 : **Student Mentor**
 
   * University of Groningen
   * Played a key role in accomodating students with their integration into the univesity system and life. Being a first point of contact for my mentor group, carrying out meetings and organizing social activities. Being a mentor was a highlight in my university career, like the TA roles it was rewarding but also helped me make some life-long friends! 
 
----------
+<hr class = "small">
+
 2015
 <br>
 : **Laboratory Assistant**
@@ -238,7 +345,7 @@ My experiences in different aspects of life so far. I strongly believe in diving
   {% include gallery id="guide_gallery" caption="Visualisations of both the classification and clustering pipelines used for the project" %}
 
 
----------
+<hr class = "small">
 
 2013-2014
 <br>
@@ -248,7 +355,7 @@ My experiences in different aspects of life so far. I strongly believe in diving
   * Christ's College, New Zealand
   * Three different leadership roles within my highschool. New Zealand schools, and this one in particular, place a lot of importance on the house systems. Being elected as a head of house placed the responsibility of organising house events, ensuring the wellbeing of students within the house and being a representative in the school community. The school prefect role was similar, albeit on a more general scale, and the involvement in the humanitarian committee was mostly focused on organising events and activities to raise money for a chosen charity. 
 
-  ---------
+  <hr class = "small">
 
 : [**Fiji Dragonfly Field Guide Illustrator**](https://www.amazon.com/Illustrated-Guide-Dragonflies-Viti-Levu/dp/B06XDK3TZK)
 
