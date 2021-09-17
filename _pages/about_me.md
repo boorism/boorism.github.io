@@ -53,7 +53,7 @@ Interests & Hobbies
 
 <div class="clearfix">
   <img class="about1" src="/assets/images/about_me/albums.png">
-  A big passion of mine is music, and in particular classical hip-hop culture with the countless of albums that accompany it. 
+  A big passion of mine is music, and in particular classical hip-hop culture with the countless albums that accompany it. 
 </div>
 
 
