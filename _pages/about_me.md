@@ -48,10 +48,8 @@ Hi again!
 <br>
 
 <h2 align = "right">
-Interests
+Interests & Hobbies
 </h2>
-
-Overall I have a pretty curious nature, but for times-sake I try and keep my non-technical interests and hobbies to the following main subjects.
 
 <div class="clearfix">
   <img class="about1" src="/assets/images/about_me/albums.png">
