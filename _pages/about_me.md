@@ -55,7 +55,7 @@ Overall I have a pretty curious nature, but for times-sake I try and keep my non
 
 <div class="clearfix">
   <img class="about1" src="/assets/images/about_me/albums.png">
-  A big passion of mine is classical hip-hop culture and the numerous albums that have come with it. 
+  A big passion of mine is music, and in particular classical hip-hop culture with the countless of albums that accompany it. 
 </div>
 
 
