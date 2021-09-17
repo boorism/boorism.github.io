@@ -55,6 +55,7 @@ Interests & Hobbies
   <img class="about1" src="/assets/images/about_me/albums.png">
   A big passion of mine is music, and in particular classical hip-hop culture with the countless albums that accompany it. From DOOM to Wu, Lord Finesse to Big L, the list is long and would need a site of its own.
     <br>
+    <br>
     Living in the Netherlands also opened my eye to electronic music, and in particular the dub/minimal/house genre. It's great for studying and also meeting some awesome people. 
 
 </div>
