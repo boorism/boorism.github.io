@@ -21,7 +21,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="My Personal Space">
 <meta property="og:title" content="My Personal Space">
-<meta property="og:url" content="http://localhost:4000/resume/">
+<meta property="og:url" content="http://0.0.0.0:4000/resume/">
 
 
   <meta property="og:description" content="My portfolio and interests">
@@ -41,7 +41,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/resume/">
+<link rel="canonical" href="http://0.0.0.0:4000/resume/">
 
 
 
@@ -52,7 +52,7 @@
     
       "@type": "Person",
       "name": "Boris Marinov",
-      "url": "http://localhost:4000/"
+      "url": "http://0.0.0.0:4000/"
     
   }
 </script>
@@ -157,7 +157,7 @@
 
   
     <div class="author__avatar">
-      <a href="http://localhost:4000/">
+      <a href="http://0.0.0.0:4000/">
         <img src="/assets/images/author/me2.png" alt="Boris Marinov" itemprop="image" class="u-photo">
       </a>
     </div>
@@ -165,7 +165,7 @@
 
   <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Boris Marinov</a>
+      <a class="u-url" rel="me" href="http://0.0.0.0:4000/" itemprop="url">Boris Marinov</a>
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
@@ -312,7 +312,9 @@
             </nav>
           </aside>
         
-        <style>
+        <head>
+
+<style>
 
 .styled-table {
     border-collapse: collapse;
@@ -368,6 +370,8 @@ hr.small {
 }
 
 </style>
+
+</head>
 
 <h1 align="center">
   Resume
@@ -485,7 +489,7 @@ hr.small {
 <ul>
   <li>Data, data and more DATA</li>
   <li><strong>Natural Language Processing</strong>: language models, semantic vector spaces, topic modelling</li>
-  <li><strong>Data Visualisation</strong>: normal graph visualisations, scientific visualisation, 3D-graphs</li>
+  <li><strong>Data Visualisation</strong>: 2D/3D Graph and Network Visualisations, scientific visualisation</li>
   <li>Data Wrangling, Manipulation, Mining</li>
   <li><strong>Machine Learning</strong>: supervised and unsupervised methods</li>
   <li><strong>Statistical modelling</strong>: both linear and non-linear regression</li>
@@ -810,6 +814,7 @@ Unstructured Free-Form Medical Complaints</em></a>
   
 </figure>
 
+
         
       </section>
 
@@ -827,11 +832,11 @@ Unstructured Free-Form Medical Complaints</em></a>
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=%20http%3A%2F%2Flocalhost%3A4000%2Fresume%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=%20http%3A%2F%2F0.0.0.0%3A4000%2Fresume%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fresume%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F0.0.0.0%3A4000%2Fresume%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fresume%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2F0.0.0.0%3A4000%2Fresume%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
@@ -910,6 +915,19 @@ Unstructured Free-Form Medical Complaints</em></a>
 
 
 
+    <script>
+  let myLabels = document.querySelectorAll('.lbl-toggle');
 
+  Array.from(myLabels).forEach(label => {
+    label.addEventListener('keydown', e => {
+      // 32 === spacebar
+      // 13 === enter
+      if (e.which === 32 || e.which === 13) {
+        e.preventDefault();
+        label.click();
+      };
+    });
+  });
+</script>
   </body>
 </html>

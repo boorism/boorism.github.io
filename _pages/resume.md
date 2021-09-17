@@ -56,6 +56,8 @@ guide_gallery:
 toc: true
 ---
 
+<head>
+
 <style>
 
 .styled-table {
@@ -113,8 +115,7 @@ hr.small {
 
 </style>
 
-
-
+</head>
 
 <h1 align = "center">
   Resume
@@ -126,6 +127,7 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_
 
 <br>
 <br>
+
 
 <h1 id = "education" align = "center">
   Education
@@ -210,9 +212,10 @@ A summary of computer skills and general AI/data science fields I am most intere
 
 Particular interest in fields such as: 
 
+
   * Data, data and more DATA
   * **Natural Language Processing**: language models, semantic vector spaces, topic modelling 
-  * **Data Visualisation**: normal graph visualisations, scientific visualisation, 3D-graphs 
+  * **Data Visualisation**: 2D/3D Graph and Network Visualisations, scientific visualisation
   * Data Wrangling, Manipulation, Mining 
   * **Machine Learning**: supervised and unsupervised methods
   * **Statistical modelling**: both linear and non-linear regression
