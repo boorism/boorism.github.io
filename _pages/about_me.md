@@ -1,6 +1,7 @@
 ---
 permalink: /about_me/
-toc: true
+# toc: true
+share: false
 ---
 
 <style>
@@ -9,7 +10,7 @@ img.about {
   float: right;
     width: 30%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 25px;
   padding: 15px
 }
 
@@ -22,11 +23,6 @@ img.about {
 
 </style>   
 
-
-<h1 align = "center">
-  About Me
-</h1>
-
 <br>
 
 <h2>
@@ -38,7 +34,14 @@ Hi again!
   I'm Boris, a Bulgarian boy who spent his teenage years in New Zealand and completed his university studies in the Netherlands. 
   <br>
   <br>
-  I'm currently looking for my next adventure and while unsure of where or what that may be, I do know that I'm very passionate and curious about AI and data science.
+  I'm currently looking for my next adventure and while unsure of where or what that may be, I do know that I'm very passionate and curious about AI and data science research.
 </div>
+
+<br>
+
+<h2>
+Interests
+</h2>
+
 
 
