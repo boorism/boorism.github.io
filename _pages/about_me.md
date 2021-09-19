@@ -58,7 +58,7 @@ Interests & Hobbies
     <br>
     Living in the Netherlands has also opened my eyes to electronic music, and in particular the dub/minimal/house genre. It's great for studying and also meeting some awesome people. 
 </div>
-
+<br>
 Finish up:
 
 <div class="clearfix">

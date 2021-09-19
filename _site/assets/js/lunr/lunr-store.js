@@ -12,7 +12,7 @@ var store = [{
         "teaser": "/assets/images/Amy/amy_sis_front.jpg"
       },{
         "title": "The Van Wies",
-        "excerpt":"                                                                                        Oil on canvas; (2019)       2019 was certainly a restart to my commissons career with a dear friend ordering these as a gift for her parents. Despite missing the Christmas deadline, I think we were both very happy with the result. Oil paints on canvas.   I usually rely on the eyes within a painting to portray a facial expression and feeling. While you can't see them directly in either these, I am really happy that I managed to capture the look of care and love given by both parents.   Thank you M for the countless of delicious meals and funny stories!   ","categories": [],
+        "excerpt":"                                                                                        Oil on canvas; (2019)       2019 was certainly a restart to my commissons career with a dear friend ordering these as a gift for her parents. Despite missing the Christmas deadline, I think we were both very happy with the result. Oil paints on canvas.   I usually rely on the eyes within a painting to portray a facial expression and feeling. While you can't see them directly in either these, I am really happy that I managed to capture the look of care and love given by both parents.   Thank you M for the countless of delicious meals and memorable stories!   ","categories": [],
         "tags": [],
         "url": "/portfolio/3_mareike/",
         "teaser": "/assets/images/mareike/m_and_mother_front.jpg"
@@ -30,7 +30,7 @@ var store = [{
         "teaser": "/assets/images/dragonfly_field_guide/dragon_breasts_teaser.jpg"
       },{
         "title": "Cersei Lannister",
-        "excerpt":"                                                  Oil on canvas; (2017)       A little piece which was mostly done out of self interest in the midst of the Game of Thrones hype. The original intent was to try and sell some prints (offer still available..) after the success of my Mr. White endevaours, but somehow things didn't kick off as planned.   Nevertheless, I was always really happy with this painting. I really enjoy the \"toxic\" green and the movement which I think is captured in the background. I usually focus primarily on the subject of the painting, leaving the background secondary and often a random color, which definitely isn't the case here.   This work now hangs at a fellow geek's house, hopefully reminding him of the good times and the even better times ahead.  ","categories": [],
+        "excerpt":"                                                  Oil on canvas; (2017)       A little piece which was mostly done out of self interest in the midst of the Game of Thrones hype. The original intent was to try and sell some prints (offer still available..) after the success of my Mr. White endeavours, but somehow things didn't kick off as planned.   Nevertheless, I was always really happy with this painting. I am fond of the \"toxic\" green and the movement which I think is captured in the background. I usually focus primarily on the subject of the painting, leaving the background secondary and often a random color, which definitely isn't the case here.   This work now hangs at a fellow geek's house, hopefully reminding him of the good times and the even better times ahead.  ","categories": [],
         "tags": [],
         "url": "/portfolio/6_cersei/",
         "teaser": "/assets/images/cersei/GoT_front.jpg"

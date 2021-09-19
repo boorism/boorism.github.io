@@ -22,6 +22,6 @@ gallery:
 
 <p align = "justify">I usually rely on the eyes within a painting to portray a facial expression and feeling. While you can't see them directly in either these, I am really happy that I managed to capture the look of care and love given by both parents.</p>
 
-<p align = "justify">Thank you M for the countless of delicious meals and funny stories!</p>
+<p align = "justify">Thank you M for the countless of delicious meals and memorable stories!</p>
 
 
