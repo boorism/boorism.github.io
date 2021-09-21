@@ -3,13 +3,13 @@ title: "A handsome young man"
 excerpt: "A gift for one of my favourite people; (2016)"
 header:
   # image: /assets/images/robbie/Robbie_header.png
-  teaser: /assets/images/robbie/Robbie_front.png
+  teaser: /assets/images/robbie/Robbie_front.jpg
 sidebar:
     - title: "Albums"
       nav: sidebar-art-albums
 gallery:
-  - url: /assets/images/robbie/Robbie.png
-    image_path: /assets/images/robbie/Robbie_front.png
+  - url: /assets/images/robbie/Robbie.jpg
+    image_path: /assets/images/robbie/Robbie_front.jpg
     alt: "heisenberg"
 ---
 

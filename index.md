@@ -26,7 +26,7 @@ feature_row:
     url: "/resume/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/sna/full.png
+  - image_path: /assets/images/sna/full.jpg
     alt: "100% free"
     title: "Blog Posts"
     excerpt: "Blogs about personal projects, things of interest or random banter crossing my mind"

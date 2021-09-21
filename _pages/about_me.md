@@ -52,7 +52,7 @@ Interests & Hobbies
 </h2>
 
 <div class="clearfix">
-  <img class="about1" src="/assets/images/about_me/albums.png">
+  <img class="about1" src="/assets/images/about_me/albums.jpg">
   A big passion of mine is music, and in particular classical hip-hop culture with the countless albums that accompany it. From DOOM to Wu, Lord Finesse to Big L, the list is long and would need a site of its own.
     <br>
     <br>

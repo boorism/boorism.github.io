@@ -17,14 +17,14 @@ figure_timeline:
     image_path: /assets/images/peoples/daily_tweet_freq.png
     alt: "splash layout example"
 sna_gallery:
-  - url: /assets/images/sna/full.png
-    image_path: /assets/images/sna/full.png
+  - url: /assets/images/sna/full.jpg
+    image_path: /assets/images/sna/full.jpg
     alt: "splash layout example"
-  - url: /assets/images/sna/full_40.png
-    image_path: /assets/images/sna/full_40.png
+  - url: /assets/images/sna/full_40.jpg
+    image_path: /assets/images/sna/full_40.jpg
     alt: "single layout with comments and related posts"
-  - url: /assets/images/sna/topics_collapsed2.png
-    image_path: /assets/images/sna/topics_collapsed2.png
+  - url: /assets/images/sna/topics_collapsed2.jpg
+    image_path: /assets/images/sna/topics_collapsed2.jpg
     alt: "archive layout example"
 thesis_gallery:
   - url: /assets/images/thesis/ML_pipeline.png

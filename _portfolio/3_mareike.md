@@ -11,8 +11,8 @@ gallery:
   - url: /assets/images/mareike/m_and_mother.jpg
     image_path: /assets/images/mareike/m_and_mother.jpg
     alt: "amy_parents"
-  - url: /assets/images/mareike/mareike_dad.png
-    image_path: /assets/images/mareike/mareike_dad_teaser.png
+  - url: /assets/images/mareike/mareike_dad.jpg
+    image_path: /assets/images/mareike/mareike_dad_teaser.jpg
     alt: "amy_sis"
 ---
 
