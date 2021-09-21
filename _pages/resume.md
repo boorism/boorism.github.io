@@ -35,7 +35,7 @@ thesis_gallery:
     alt: "splash layout example"
 fiji_gallery:
   - url: /assets/images/fiji/guide_cover.jpg
-    image_path: /assets/images/fiji/guide_cover.jpg
+    image_path: /assets/images/fiji/guide_cover_teaser.jpg
     alt: "single layout with comments and related posts"
   - url: /assets/images/fiji/guide_cover.jpg
     image_path: /assets/images/fiji/guide_cover.jpg
@@ -45,13 +45,13 @@ fiji_gallery:
     alt: "splash layout example"
 guide_gallery:
   - url: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
-    image_path: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+    image_path: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ_teaser.jpg
     alt: "single layout with comments and related posts"
-  - url: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
-    image_path: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+  - url: /assets/images/dragonfly_field_guide/dragon_breasts.JPG
+    image_path: /assets/images/dragonfly_field_guide/dragon_breasts.JPG
     alt: "splash layout example"
-  - url: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
-    image_path: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
+  - url: /assets/images/dragonfly_field_guide/dragon_flight.JPG
+    image_path: /assets/images/dragonfly_field_guide/dragon_flight.JPG
     alt: "splash layout example"
 toc: true
 ---
@@ -346,7 +346,7 @@ My experiences in different aspects of life so far. I strongly believe in diving
   * In collaboration with the Auckland University Press
   * Another project I had worked on with my father, this time just focusing on the [pencil illustrations](/portfolio/4_dragonfly-illustrations/) for the field guide. The book was very successful and ended up winning one of the [2020 Whitley Awards for Best Illustrated Field Guide](https://www.rzsnsw.org.au/grants-awards/previous-winners/2020-winners)!
 
-  {% include gallery id="guide_gallery" caption="Visualisations of both the classification and clustering pipelines used for the project" %}
+  {% include gallery id="guide_gallery" caption="Field guide cover and some of the pencil illustrations" %}
 
 
 <hr class = "small">
@@ -366,4 +366,4 @@ My experiences in different aspects of life so far. I strongly believe in diving
   * In collaboration with The University of the South Pacific Institute of Applied Sciences
   * This was the first big project I was involved in with my father. He had initiated yet another one of his ideas with work on dragonflies and kindly invited me to paint numerous illustrations for the field guide. My illustrations have come a long way since then, but it paved the way for promising future collaborations!
 
-  {% include gallery id="fiji_gallery" caption="Visualisations of both the classification and clustering pipelines used for the project" %}
+  {% include gallery id="fiji_gallery" caption="Field guide cover and some of the water colour illustrations" %}
