@@ -123,7 +123,7 @@ hr.small {
 
 Below is a not-so concise resume about my past experiences, projects and technical skills 
 
-My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_M.pdf), while the [About Me](/about_me/) page is focused on more personal interests, traits and hobbies
+My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_M.pdf)
 
 <br>
 <br>
@@ -167,7 +167,7 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_
 
 <hr class = "small">
 
-2012-2013
+2010-2014
 
 : **Highschool Diploma**; 
   ([Christ's College](https://christscollege.com), New Zealand)
@@ -218,7 +218,8 @@ Particular interest in fields such as:
   * **Data Visualisation**: 2D/3D Graph and Network Visualisations, scientific visualisation
   * Data Wrangling, Manipulation, Mining 
   * **Machine Learning**: supervised and unsupervised methods
-  * **Statistical modelling**: both linear and non-linear regression
+  * **Statistical modelling**: linear and non-linear regression, mixed-effects models, classification, inference
+  * Neuroscience and neuroimaging
   * Scientific writing and research
 
 <br>
