@@ -12,7 +12,7 @@ header:
 excerpt: >
   Hi! I'm Boris. <br><br> I'm into AI, <br>the environment <br>& art.
 feature_row:
-  - image_path: /assets/images/robbie/Robbie_front_page.png
+  - image_path: /assets/images/robbie/Robbie_front_page.jpg
     alt: "robbie"
     title: "Art Portfolio"
     excerpt: "Different artworks I've completed over the years and the stories behind them"
