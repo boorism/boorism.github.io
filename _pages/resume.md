@@ -37,11 +37,11 @@ fiji_gallery:
   - url: /assets/images/fiji/guide_cover.jpg
     image_path: /assets/images/fiji/guide_cover_teaser.jpg
     alt: "single layout with comments and related posts"
-  - url: /assets/images/fiji/guide_cover.jpg
-    image_path: /assets/images/fiji/guide_cover.jpg
+  - url: /assets/images/fiji/fiji_dragon.jpg
+    image_path: /assets/images/fiji/fiji_dragon_teaser.jpg
     alt: "splash layout example"
-  - url: /assets/images/fiji/guide_cover.jpg
-    image_path: /assets/images/fiji/guide_cover.jpg
+  - url: /assets/images/fiji/fiji_damsel.jpg
+    image_path: /assets/images/fiji/fiji_damsel_teaser.jpg
     alt: "splash layout example"
 guide_gallery:
   - url: /assets/images/dragonfly_field_guide/Marinov_Dragonflies_Damselflies_of_NZ.jpg
