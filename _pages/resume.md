@@ -123,7 +123,7 @@ hr.small {
 
 Below is a not-so concise resume about my past experiences, projects and technical skills 
 
-My "proper" resume can be found [here](/assets/documents/Curriculum_Vitae_Boris_M.pdf)
+My "proper" resume can be found [here](/assets/documents/Curriculum_Vit_Boris_M.pdf)
 
 <br>
 <br>
