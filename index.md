@@ -35,6 +35,22 @@ feature_row:
     btn_label: "Read more"
 ---
 
+<meta name="description" content="Personal Website" />
+<meta name="title" property="og:title" content="Greetings" />
+<meta property="og:type" content="Website" />
+<meta 
+  name="image" 
+  property="og:image" 
+  content="https://github.com/boorism/boorism.github.io/blob/main/assets/images/robbie/Robbie_front_page.jpg" 
+/>
+<meta
+ name="description" 
+ property="og:description" 
+ content="Personal Website" 
+/>
+<meta name="author" content="Boris Marinov" />
+
+
 <!-- <style>
 img { 
   object-fit: cover;
