@@ -12,18 +12,18 @@ header:
 excerpt: >
   Hi! I'm Boris. <br><br> I'm into AI, <br>the environment <br>& art.
 feature_row:
-  - image_path: /assets/images/robbie/Robbie_front_page.jpg
-    alt: "robbie"
-    title: "Art Portfolio"
-    excerpt: "Different artworks I've completed over the years and the stories behind them"
-    url: "/portfolio/"
-    btn_class: "btn--primary"
-    btn_label: "Read more"
   - image_path: /assets/images/author/the_boys.jpg
     alt: "fully responsive"
     title: "Resume"
     excerpt: "Education, work experience and projects I've collaborated on with fellow researchers"
     url: "/resume/"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
+  - image_path: /assets/images/robbie/Robbie_front_page.jpg
+    alt: "robbie"
+    title: "Art Portfolio"
+    excerpt: "Different artworks I've completed over the years and the stories behind them"
+    url: "/portfolio/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/sna/full.jpg
