@@ -123,7 +123,7 @@ hr.small {
 
 Below is a not-so concise resume about my past experiences, projects and technical skills 
 
-My "proper" resume can be found [here](/assets/documents/Curriculum_Vit_Boris_M.pdf)
+My "proper" resume can be found [here](/assets/documents/Curriculum_Vit_Boris_Atlantis.pdf)
 
 <br>
 <br>
@@ -140,7 +140,7 @@ My "proper" resume can be found [here](/assets/documents/Curriculum_Vit_Boris_M.
 : [**MSc, Human Machine Communication**](https://www.rug.nl/masters/computational-cognitive-science/?lang=en); 
   (University of Groningen, The Netherlands) 
 
-  * *Grade Average 8.1*
+  * *Grade Average 8.2*
   * Language Modeling Track
   * Standout courses included Advanced Statistical Modeling, Data Science, Machine Learning, Natural Language Processing and Scientific Visualisation
   * [Three major projects](#masters-projects)
@@ -243,7 +243,7 @@ A list of the major projects I have been a part of. For more detail, as well as 
 : **Master's Thesis:** <br/><br/> [*Machine Learning Classification of the Coronary Artery Disease and Clustering of
 Unstructured Free-Form Medical Complaints*](/assets/documents/Master_Thesis_Boris_Final.pdf)
 
-  * Grade: X
+  * Grade: 8.5
   * Supervised by: [Dr. ir. Peter van Ooijen](https://www.rug.nl/staff/p.m.a.van.ooijen/) & [Dr. Fokie Cnossen](https://www.rug.nl/staff/f.cnossen/)
   * Part of the Nationwide Dutch [CONCRETE](https://concrete-project.nl) Project
   * Investigated the predictive capability of self-reported patient quality-of-life data with regards to the Coronary Artery Disease severity levels. The classification pipeline demonstrated that predictions can be useful and could improve the efficiency of the Dutch healthcare system. Also proposed a [BERT-based unsupervised clustering method]() which can discover groups of similar medical textal complaints, with the method displaying noticeable adavantages over standard topic modeling approaches. 
