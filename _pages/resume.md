@@ -121,7 +121,7 @@ hr.small {
   Resume
 </h1>
 
-Below is a not-so concise resume about my past experiences, projects and technical skills : {{ jekyll.environment }}
+Below is a not-so concise resume about my past experiences, projects and technical skills
 
 My "proper" resume can be found [here](/assets/documents/Curriculum_Vit_Boris_Atlantis.pdf)
 
